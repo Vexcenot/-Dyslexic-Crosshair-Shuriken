@@ -71,7 +71,7 @@
 
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/xbuildmelee"
+				"file"		"vgui/replay/thumbnails/xhair_melee_square"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"
