@@ -85,7 +85,7 @@ WeaponData
 		}
 		"zoom"
 		{
-				"file"		"vgui/replay/thumbnails/xsniper"
+				"file"		"vgui/replay/thumbnails/xhair_smgrevolver"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"
