@@ -77,7 +77,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/xrevolver"
+				"file"		"vgui/replay/thumbnails/xsniper2"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"
@@ -85,7 +85,7 @@ WeaponData
 		}
 		"zoom"
 		{
-				"file"		"vgui/replay/thumbnails/xhair_smgrevolver"
+				"file"		"vgui/replay/thumbnails/xsniper"
 				"x"		"0"
 				"y"		"0"
 				"width"		"512"
